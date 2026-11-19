@@ -2,7 +2,7 @@
   "jmeno": "Goyo (César Ruiz Hernández)",
   "vek": 31,
   "je_plnolety": true,
-  "poznamka": null,
+  "poznamka": "Taktika a obrana jsou jeho silné stránky.",
   "vybava": {
     "jednotka": "FES",
     "schopnost": "Volcán Shield se zápalnou náloží",
@@ -12,5 +12,6 @@
     "taktické plánování",
     "obrana vstupů",
     "nastražování zápalných pastí"
-  ]
+  ],
+  "oblibene_cislo": 7
 }
