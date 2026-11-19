@@ -1,0 +1,15 @@
+{
+  "jmeno": "Tereza",
+  "vek": 17,
+  "je_plnolety": false,
+  "poznamka": null,
+  "adresa": {
+    "mesto": "Brno",
+    "ulice": "Lipová"
+  },
+  "konicky": [
+    "čtení",
+    "plavání",
+    "fotografování"
+  ]
+}
