@@ -1,5 +1,5 @@
-id,nazev,autor,rok_vydani,dostupna
-1,Malý princ,Antoine de Saint-Exupéry,1943,ano
-2,Metro 2033,Dmitrij Gluchovskij,2005,ne
-3,"Hobit, aneb Cesta tam a zase zpátky",J. R. R. Tolkien,1937,ano
-4,Pán much,William Golding,1954,ne
+id,nazev,autor,rok_vydani,dostupna,pocet_stran
+1,Malý princ,Antoine de Saint-Exupéry,1943,ano,96
+2,Metro 2033,Dmitrij Gluchovskij,2005,ne,592
+3,"Hobit, aneb Cesta tam a zase zpátky",J. R. R. Tolkien,1937,ano,310
+4,Pán much,William Golding,1954,ne,224
