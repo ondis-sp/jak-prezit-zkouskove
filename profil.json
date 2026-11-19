@@ -1,15 +1,16 @@
 {
-  "jmeno": "Tereza",
-  "vek": 17,
-  "je_plnolety": false,
+  "jmeno": "Goyo (César Ruiz Hernández)",
+  "vek": 31,
+  "je_plnolety": true,
   "poznamka": null,
-  "adresa": {
-    "mesto": "Brno",
-    "ulice": "Lipová"
+  "vybava": {
+    "jednotka": "FES",
+    "schopnost": "Volcán Shield se zápalnou náloží",
+    "zbrane": "Vector .45 ACP, TCSG12, P229"
   },
-  "konicky": [
-    "čtení",
-    "plavání",
-    "fotografování"
+  "dovednosti": [
+    "taktické plánování",
+    "obrana vstupů",
+    "nastražování zápalných pastí"
   ]
 }
